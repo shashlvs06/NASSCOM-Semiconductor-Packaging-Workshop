@@ -573,6 +573,7 @@ o	Ensured no interference with wire bonds or pads (minimum clearance = 50 µm).
 
 **Certificate**
 
+![image](https://github.com/user-attachments/assets/2c4eead7-4944-4421-b6e1-0831e95ea446)
 
 **Acknowledgements**
 
